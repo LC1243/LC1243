@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LC1243)](https://language-stats.vercel.app/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LC1243)](https://github.com/LC1243/LanguageStats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LC1243&theme=nord&count_private=true)
 <!--
 **LC1243/LC1243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
